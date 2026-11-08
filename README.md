@@ -9,3 +9,4 @@
 
 [Тема 3](https://github.com/arinakhvostova1-tech/probability-theory-hw/blob/main/Notebook3.ipynb)
 
+[Тема 4](https://github.com/arinakhvostova1-tech/probability-theory-hw/blob/main/Notebook4.ipynb)
